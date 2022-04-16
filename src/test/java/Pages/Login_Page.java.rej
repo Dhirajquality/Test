@@ -1,0 +1,9 @@
+diff a/src/test/java/Pages/Login_Page.java b/src/test/java/Pages/Login_Page.java	(rejected hunks)
+@@ -0,6 +0,7 @@
+ 
+ import org.openqa.selenium.By;
+ import org.openqa.selenium.WebDriver;
++import CustomPackage.Customclass;
+ 
+ 
+ public class Login_Page extends Customclass
